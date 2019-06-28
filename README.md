@@ -1,2 +1,2 @@
 # hello-world
-just doing the demo
+I find I have nothing more important than helping the world add new Roku channel
